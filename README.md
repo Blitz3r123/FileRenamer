@@ -12,3 +12,5 @@ I don't like renaming files on Windows so I created my own one.
 3. Change your file name and then hit Enter
 4. Your file has now been renamed (INCLUDING THE FILE EXTENSION IF YOU REMOVED THAT BY ACCIDENT)
 5. Enjoy your new file names
+
+*For anyone interested - I completed this whole thing in roughly 40 minutes...*
